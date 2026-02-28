@@ -4,3 +4,6 @@ checkpoints/
 .env
 *.pth
 *.pt
+data.zip
+ENV_SETUP/
+scripts/dataset.py
